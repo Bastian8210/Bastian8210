@@ -27,7 +27,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=BassenV2♯0001&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="mailto:johansenbastian6@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -39,20 +38,13 @@
 ###
 
 <div align="center">
-  <img height="" src="https://media0.giphy.com/media/GHKlVpc6ThFB9Zk41M/200.gif"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/bastian8210/count.svg?"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="100" src="./result.gif"  />
+  <img height="400" src="https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif"  />
 </div>
 
 ###
-Profile Readme Generator

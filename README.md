@@ -6,7 +6,7 @@
 ### <div align="center">Hej, mit navn er Bastian og jeg er studerende på Aarhus tech</div>  
   
 
-- 🔭 Jeg arbejde på et Javascript project [nodejs]  
+- 🔭 Jeg arbejder på et Javascript project [nodejs]  
   
 
 - 🌱 Jeg er igang med at lære **Rust**, **C#**, **Assembly**  

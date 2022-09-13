@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="./result.gif"  />
+  <img height="100" src="./result.gif"  />
 </div>
 
 ###

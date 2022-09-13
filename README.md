@@ -79,8 +79,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
   
 
 <br/>  

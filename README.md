@@ -1,4 +1,4 @@
-<h2 align="center">Hej 👋! Mit navn er Bastian og jeg er studerende på Aarhustech</h2>
+<h2 align="center">Hej 👋! Mit navn er Bastian og jeg er Cybervænepligtigt</h2>
 
 ###
 

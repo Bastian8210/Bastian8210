@@ -65,7 +65,7 @@ It uses a small Python service on the PC and a simple web client in Safari.
 - QR code for instant iPhone access  
 - Works on iOS Safari **without App Store installs**  
 
-[📁 Project Repository](#)  <!-- Replace # with your GitHub repo URL -->
+[📁 Project Repository](https://github.com/Bastian8210/OpenVid-Audio-Stream/tree/main)  <!-- Replace # with your GitHub repo URL -->
 
 
 ---

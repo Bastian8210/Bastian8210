@@ -67,9 +67,6 @@ It uses a small Python service on the PC and a simple web client in Safari.
 
 [📁 Project Repository](#)  <!-- Replace # with your GitHub repo URL -->
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" height="200" alt="OpenVid streaming GIF"/>
-</div>
 
 ---
 

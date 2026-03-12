@@ -48,9 +48,27 @@
 
 ---
 
-### 💻 Currently Coding
+### 💻 Currently Coding: OpenVid Audio Stream
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?logo=windows&logoColor=white)
+![Client](https://img.shields.io/badge/Client-iOS%20Safari-000000?logo=apple&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-Low%20Latency-FF6B00?logo=webrtc&logoColor=white)
+
+OpenVid is a lightweight **local WebRTC audio streamer** that sends **high-quality, low-latency audio** from a Windows PC to an iPhone.  
+It uses a small Python service on the PC and a simple web client in Safari.
+
+**✨ Highlights**
+- Near-zero latency audio over WebRTC (Opus)  
+- Stream system audio (loopback) or microphone input  
+- Simple setup via Wi-Fi or USB-tethered link  
+- QR code for instant iPhone access  
+- Works on iOS Safari **without App Store installs**  
+
+[📁 Project Repository](#)  <!-- Replace # with your GitHub repo URL -->
+
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="coding gif" />
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" height="200" alt="OpenVid streaming GIF"/>
 </div>
 
 ---
